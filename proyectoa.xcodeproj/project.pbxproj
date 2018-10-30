@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		180D8058202D58C800E594BC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 180D8057202D58C800E594BC /* main.cpp */; };
+		180D8058202D58C800E594BC /* proyectoa.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 180D8057202D58C800E594BC /* proyectoa.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		180D8054202D58C800E594BC /* proyectoa */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = proyectoa; sourceTree = BUILT_PRODUCTS_DIR; };
-		180D8057202D58C800E594BC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		180D8057202D58C800E594BC /* proyectoa.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = proyectoa.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		180D8056202D58C800E594BC /* proyectoa */ = {
 			isa = PBXGroup;
 			children = (
-				180D8057202D58C800E594BC /* main.cpp */,
+				180D8057202D58C800E594BC /* proyectoa.cpp */,
 			);
 			path = proyectoa;
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				180D8058202D58C800E594BC /* main.cpp in Sources */,
+				180D8058202D58C800E594BC /* proyectoa.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +251,7 @@
 				180D805D202D58C800E594BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
